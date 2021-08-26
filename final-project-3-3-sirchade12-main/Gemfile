@@ -1,8 +1,0 @@
-source 'https://rubygems.org'
-
-gem 'sqlite3'
-gem 'distribution'
-gem 'test-unit'
-gem 'numo-gnuplot'
-gem 'rb-libsvm'
-gem 'tty-table'
